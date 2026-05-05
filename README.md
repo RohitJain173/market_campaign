@@ -49,7 +49,7 @@ Download the dataset [Link](https://github.com/RohitJain173/market_campaign/blob
 
 - 📊 Power BI Dashboard1: [Download PBIX](https://github.com/RohitJain173/market_campaign/blob/main/Market%20Campaign.pbix)
   
-- 📊 Power BI Dashboard1: [Download PBIX](https://github.com/RohitJain173/market_campaign/blob/main/Market_camp_roi.pbix)
+- 📊 Power BI Dashboard2: [Download PBIX](https://github.com/RohitJain173/market_campaign/blob/main/Market_camp_roi.pbix)
 
 ## 📊 Key Insights
 - 📢 Influencer Marketing generated the highest ROI
