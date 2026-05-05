@@ -1,0 +1,13 @@
+﻿CampaignID,CampaignName,StartDate,EndDate,Channel,Spend,LeadsGenerated,Conversions,RevenueGenerated,Clicks,Impressions
+C001,New Year Beauty Blast,01-01-2024,15-01-2024,Social Media,5000,450,90,18000,12000,200000
+C002,Influencer Skin Care Push,10-01-2024,25-01-2024,Influencer,7000,520,110,23000,9000,150000
+C003,Winter Glow Email,01-02-2024,10-02-2024,Email,2000,210,45,9000,4000,60000
+C004,Valentine Makeup Promo,05-02-2024,20-02-2024,Social Media,6500,480,95,21000,11000,180000
+C005,Spring Beauty Launch,01-03-2024,20-03-2024,Event,8000,600,140,30000,7000,120000
+C006,Influencer Hair Care Campaign,05-03-2024,18-03-2024,Influencer,7200,540,120,25000,9500,160000
+C007,March Email Discount,10-03-2024,25-03-2024,Email,2500,260,60,11000,4200,65000
+C008,Instagram Makeup Ads,01-04-2024,15-04-2024,Social Media,6800,500,100,22000,11500,175000
+C009,Beauty Influencer April Push,05-04-2024,20-04-2024,Influencer,7500,580,130,28000,9800,170000
+C010,Summer Skin Care Campaign,01-05-2024,20-05-2024,Social Media,9000,720,180,35000,15000,240000
+C011,Email Loyalty Offer,05-05-2024,15-05-2024,Email,2300,240,55,10500,3900,58000
+C012,Influencer Summer Glow,10-05-2024,25-05-2024,Influencer,7800,600,150,31000,9800,165000
