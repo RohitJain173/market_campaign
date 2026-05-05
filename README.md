@@ -23,7 +23,7 @@ Identify best-performing marketing campaigns
 - Power BI → Dashboard & Data Visualization
 
 ## 📓 Dataset
-Download the dataset [Link](https://github.com/RohitJain173/customer_behaviour_analysis/blob/main/customer_shopping_behavior.csv)
+Download the dataset [Link](https://github.com/RohitJain173/market_campaign/blob/main/glowup_campaigns.csv)
 
 - Campaign Name
 - Campaign Type (Digital / Traditional)
